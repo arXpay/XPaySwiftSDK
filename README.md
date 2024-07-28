@@ -20,10 +20,6 @@ it, simply add the following line to your Podfile:
 pod 'XPaySwiftSDK', :git => 'https://github.com/arXpay/XPaySwiftSDK.git'
 ```
 
-## Author
-
-AdelRedaa97, adelredaa97@gmail.com
-
 ## License
 
 XPaySwiftSDK is available under the MIT license. See the LICENSE file for more info.
